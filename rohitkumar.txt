@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+</head>
+<body>
+<!-- write html and css code to style a paragraph inside a div which contains 5 other paragraphs.The first paragraph must have background color of yellow and text color of red. the other paragraphs must have background color of blue and text color of white. the html is written below for your reference.-->
+ <div>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In magnam, mollitia tempora laborum consectetur quas eligendi inventore ipsam adipisci soluta quidem error dignissimos molestias minima dolore ab ad molestiae temporibus, ex placeat facilis amet saepe expedita. Aspernatur autem, similique saepe aliquid delectus animi laudantium quia!</p>
+
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos minus, iste porro sit, sed quas libero voluptatum asperiores, distinctio iure repudiandae exercitationem? Ab sunt blanditiis unde ea odio fuga maxime.</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus quae incidunt quas aspernatur non odit veniam tempora velit? Similique at ipsa natus provident ratione a?</p>
+  </div>
+  
+</body>
+</html>
